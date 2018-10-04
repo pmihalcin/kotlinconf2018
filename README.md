@@ -123,3 +123,22 @@ https://github.com/APIs-guru/graphql-apis
 https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6
 
 https://www.apollographql.com/client/
+
+## Architecting a Kotlin JVM and JS multiplatform project
+
+experimental
+
+write code only in Kotlin and target multiple platforms
+
+https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c
+
+common
+to share business logic
+
+* kotlinc -> JVM, Android
+* kotlin/native -> executable, dynamic lib, iOS
+* kotlin2js -> JS
+
+https://kotlinlang.org/docs/reference/multiplatform.html
+
+https://github.com/felipecsl/ktnes
