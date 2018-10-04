@@ -40,21 +40,25 @@ kotlin for java developers coursera specialization
 
 [edutools plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA)
 
-https://play.kotl.in
+[learn](http://kotl.in/learn)
+
+[play](https://play.kotl.in)
 
 https://www.atomickotlin.com/
 https://github.com/BruceEckel/AtomicKotlinExamples
 
+spring + kotlin
 https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin
 https://spring.io/guides/tutorials/spring-boot-kotlin/
 
 ## Komparing Kotlin Server Frameworks
+
 * Ktor
 * Http4k
 * Jooby
-* vertx
-* Spring - most popular framework, slowest?
+* Vertx
 * jhipster - scaffolding
+* Spring - most popular framework, slowest?
 
 spring fu, there is also coroutines support
 https://github.com/spring-projects/spring-fu
