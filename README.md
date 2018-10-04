@@ -46,7 +46,7 @@ kotlin for java developers coursera specialization
 
 https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA
 
-https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS4zLVJDIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJmb2xkZWRCdXR0b24iOnRydWUsInJlYWRPbmx5IjpmYWxzZSwiY29kZSI6Ii8qKlxuICogWW91IGNhbiBlZGl0LCBydW4sIGFuZCBzaGFyZSB0aGlzIGNvZGUuIFxuICogcGxheS5rb3RsaW5sYW5nLm9yZyBcbiAqL1xuXG5mdW4gbWFpbigpIHtcbiAgICBwcmludGxuKFwiSGVsbG8sIHdvcmxkISEhXCIpXG59In0=
+https://play.kotl.in
 
 https://kotlinlang.org/docs/reference/
 
