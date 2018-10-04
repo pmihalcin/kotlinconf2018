@@ -3,16 +3,13 @@ Notes from KotlinConf 2018
 https://kotlinconf.com/
 
 ## Keynote
-Kotlin 1.3
-https://kotlinlang.org/docs/reference/whatsnew13.html
+Kotlin 1.3: https://kotlinlang.org/docs/reference/whatsnew13.html
 
-Coroutines - async non-blocking code
-https://kotlinlang.org/docs/reference/coroutines-overview.html
+Coroutines - async non-blocking code: https://kotlinlang.org/docs/reference/coroutines-overview.html
 
-Ktor
-http://ktor.io/
+(Ktor)[http://ktor.io/]
 
-https://kotlinlang.org/docs/reference/native-overview.html
+[Kotling Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 multiplatform
 http, serialization, coroutines, settings, logging
