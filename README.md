@@ -11,6 +11,7 @@ Notes from KotlinConf 2018
 [Kotling Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 [multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
+
 http, serialization, coroutines, settings, logging
 
 unified tooling, Intellij opens up JVM, JS, Native multiplatform projects
@@ -20,6 +21,7 @@ Gradle Kotlin DSL
 scratch files, scripts, *.kts
 
 build time is better
+
 https://github.com/hzsweers/CatchUp
 
 Future
