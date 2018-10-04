@@ -122,3 +122,4 @@ https://github.com/APIs-guru/graphql-apis
 
 https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6
 
+https://www.apollographql.com/client/
