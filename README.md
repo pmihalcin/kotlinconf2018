@@ -88,4 +88,34 @@ Kotlin represents all data using objects
 https://www.bignerdranch.com/books/kotlin-programming/
 
 ## GraphQL powered by Kotlin
+is query language, e.g. similar to SQL
+
+```
+query OPERATION_NAME {
+  object_I_am_interested_in {
+    field1,
+    field2
+  }
+}
+```
+
+query - GET
+mutations - POST, PUT, PATCH, DELETE
+
+is spec
+
+servers and client, multiple languages
+
+is introspective
+metadata about endpoints
+
+Server in Kotlin - kgraphql
+* types
+* schemas
+* resolvers
+Ktor
+
+https://github.com/APIs-guru/graphql-apis
+
+https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6
 
