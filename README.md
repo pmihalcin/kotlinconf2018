@@ -142,3 +142,20 @@ to share business logic
 https://kotlinlang.org/docs/reference/multiplatform.html
 
 https://github.com/felipecsl/ktnes
+
+## Exploring the Kotlin type hierarchy from top to bottom
+
+https://speakerdeck.com/npryce/the-kotlin-type-hierarchy-from-top-to-bottom
+
+https://rollbar.com/blog/top-10-javascript-errors/
+
+## New Type Inference and Related Language Features
+* Kotlin contracts
+* compiler is more clever
+* better type inference
+
+## Building a Browser Extension with Kotlin
+https://kotlinlang.org/docs/tutorials/javascript/kotlin-to-javascript/kotlin-to-javascript.html
+
+
+
