@@ -51,7 +51,30 @@ https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS4zLVJDIiwicGxhdGZvcm0iOiJqYXZhIiw
 https://kotlinlang.org/docs/reference/
 
 https://www.atomickotlin.com/
-
 https://github.com/BruceEckel/AtomicKotlinExamples
+
+https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin
+https://spring.io/guides/tutorials/spring-boot-kotlin/
+
+## Komparing Kotlin Server Frameworks
+* Ktor
+* Http4k
+* Jooby
+* vertx
+* Spring - most popular framework, slowest?
+* jhipster - scaffolding
+
+spring fu, there is also coroutines support
+https://github.com/spring-projects/spring-fu
+
+GraalVM, SubstrateVM
+no dynamic class loading
+no jmx vm monitoring
+
+going native makes startup much faster
+
+
+
+
 
 
