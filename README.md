@@ -4,7 +4,7 @@ Notes from KotlinConf 2018
 ## Keynote
 [Kotlin 1.3](http://kotl.in/1.3)
 
-[Coroutines - async non-blocking code](https://kotlinlang.org/docs/reference/coroutines-overview.html)
+[Coroutines - async non-blocking code](http://kotl.in/coroutines)
 
 [Ktor](http://ktor.io/)
 
