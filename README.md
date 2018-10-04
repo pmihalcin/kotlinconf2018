@@ -80,6 +80,7 @@ https://gist.github.com/dgreenhalgh/ecb25561d711769d4ab45e981a173a7d
 https://gist.github.com/dgreenhalgh/9acb9fd6bd2668a0235c7387b5b03478
 
 String! is shown in IDE when there is ambiguity, this can be improved with @NotNull, @Nullable annotations
+
 String vs String? - as a question :), then it may be null
 
 Kotlin represents all data using objects
