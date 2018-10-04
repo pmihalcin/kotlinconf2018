@@ -86,3 +86,6 @@ String vs String? - as a question :), then it may be null
 Kotlin represents all data using objects
 
 https://www.bignerdranch.com/books/kotlin-programming/
+
+## GraphQL powered by Kotlin
+
