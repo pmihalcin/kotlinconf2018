@@ -1,19 +1,17 @@
-# kotlinconf2018
+# [KotlinConf 2018](https://kotlinconf.com/)
 Notes from KotlinConf 2018
-https://kotlinconf.com/
 
 ## Keynote
-Kotlin 1.3: https://kotlinlang.org/docs/reference/whatsnew13.html
+[Kotlin 1.3](https://kotlinlang.org/docs/reference/whatsnew13.html)
 
-Coroutines - async non-blocking code: https://kotlinlang.org/docs/reference/coroutines-overview.html
+[Coroutines - async non-blocking code](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 
-(Ktor)[http://ktor.io/]
+[Ktor](http://ktor.io/)
 
 [Kotling Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
-multiplatform
+[multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
 http, serialization, coroutines, settings, logging
-https://kotlinlang.org/docs/reference/multiplatform.html
 
 unified tooling, Intellij opens up JVM, JS, Native multiplatform projects
 
@@ -31,8 +29,7 @@ Future
 * focus on compiler API, it's possible to write compiler plugins
 * saner concurrency - more distant future
 
-progressive mode
-https://kotlinlang.org/docs/reference/whatsnew13.html#progressive-mode
+[progressive mode](https://kotlinlang.org/docs/reference/whatsnew13.html#progressive-mode)
 
 experimental
 * inline classes
@@ -41,11 +38,9 @@ experimental
 
 kotlin for java developers coursera specialization
 
-https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA
+[edutools plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA)
 
 https://play.kotl.in
-
-https://kotlinlang.org/docs/reference/
 
 https://www.atomickotlin.com/
 https://github.com/BruceEckel/AtomicKotlinExamples
@@ -69,9 +64,4 @@ no dynamic class loading
 no jmx vm monitoring
 
 going native makes startup much faster
-
-
-
-
-
 
