@@ -8,7 +8,7 @@ Notes from KotlinConf 2018
 
 [Ktor](http://ktor.io/)
 
-[Kotling Native](https://kotlinlang.org/docs/reference/native-overview.html)
+[Kotlin Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 [multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
 
