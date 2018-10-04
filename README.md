@@ -157,5 +157,12 @@ https://rollbar.com/blog/top-10-javascript-errors/
 ## Building a Browser Extension with Kotlin
 https://kotlinlang.org/docs/tutorials/javascript/kotlin-to-javascript/kotlin-to-javascript.html
 
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
 
+browser object
 
+https://rakhman.info/
+
+https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915
+
+https://medium.com/@Cypressious/your-second-firefox-extension-in-kotlin-bafd91d87c41
