@@ -65,11 +65,12 @@ https://spring.io/guides/tutorials/spring-boot-kotlin/
 * Spring - most popular framework, slowest?
 
 spring fu, there is also coroutines support
+
 https://github.com/spring-projects/spring-fu
 
 GraalVM, SubstrateVM
-no dynamic class loading
-no jmx vm monitoring
+* no dynamic class loading
+* no jmx vm monitoring
 
 going native makes startup much faster
 
