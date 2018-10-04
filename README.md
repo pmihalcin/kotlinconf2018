@@ -50,7 +50,9 @@ https://www.atomickotlin.com/
 https://github.com/BruceEckel/AtomicKotlinExamples
 
 spring + kotlin
+
 https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin
+
 https://spring.io/guides/tutorials/spring-boot-kotlin/
 
 ## Komparing Kotlin Server Frameworks
