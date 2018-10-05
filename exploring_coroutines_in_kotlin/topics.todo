@@ -1,0 +1,25 @@
+Exploring Coroutines in Kotlin
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+Twitter: @venkat_s
+http://www.agiledeveloper.com download link
+  
+Topics:
+-Computing
+-Parallel vs. Asynchronous
+-Concurrency vs. Non-blocking
+-Let's examine parallel just a bit, in Java
+-Why not be happy with that?
+-Functional style is awesome
+-But, handling exceptions is a mess
+-Coroutines are asynchronous
+-from synchronous to asynchronous  
+-blocking to non-blocking
+-How coroutines work? 
+-A sequential code
+-Using suspend
+-Doing async
+
+
+You can download this topics list and code examples from:
+	http://www.agiledeveloper.com	 - downloads link
