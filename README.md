@@ -198,5 +198,5 @@ code execution returns multiple times into the same function
 https://gist.github.com/dgreenhalgh/6f14267507cbec6e9f52fa3e84971771
 https://gist.github.com/dgreenhalgh/54d87412fec2705119a72bd08e12fbe6
 
-* function inlining, no additional function allocations
-* `inline fun` and `closures` don't play well together
+* function inlining, removes the need for the JVM to use an object instance and to perform variable memory allocations for the lambda
+* `inline fun`
