@@ -1,0 +1,32 @@
+Creating DSLs in Kotlin
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+Twitter: @venkat_s
+http://www.agiledeveloper.com download link
+  
+Topics:
+-Domain Specific Languages
+-Examples
+-Types: External vs. Internal
+-Characteristics: context and fluency
+-What makes Kotlin special for internal DSLs?
+-Optional semicolon
+-drop () and . using infix
+-extension methods give you the power of fluency
+-no () for passing last lambda
+-implicit receivers rock
+-this and it may come in handy
+-Let's build some DSLs
+-2 days ago
+-3 days from_now
+-meeting starts...
+-On a Robot
+operate {        
+  it turns left
+  it turns right
+  it runs fast
+}
+
+
+You can download this topics list and code examples from:
+	http://www.agiledeveloper.com	 - downloads link
