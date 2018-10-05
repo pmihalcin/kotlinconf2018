@@ -278,3 +278,27 @@ use the hive mind - if I am backend developer, I can also contribute on frontend
 learning has no definition of done
 
 ## Creating Internal DSLs in Kotlin
+https://www.agiledeveloper.com/downloads.html
+
+DSL - very targeted API
+
+* external - I can define my own syntax, disatvantage: handle parsing
+* internal - we build DSL on top of something, e.g. compiler
+
+context + fluency
+
+what makes Kotling good for DSLs:
+* optional semicolon
+* drop `.`, `()` - `infix fun`
+* extension functions - no bytecode injection, compiler handles it, it's just syntactic sugar
+* no `()` for passing last lambda
+
+* implicit receivers
+
+JS
+`.call`
+it's possible to attach context to given function
+I can take any function and supplement object on which function is called
+
+inspiration: HTML builder, Spring fu
+
