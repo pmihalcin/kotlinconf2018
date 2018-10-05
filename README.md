@@ -276,3 +276,5 @@ have a clear value proposition - agenda
 use the hive mind - if I am backend developer, I can also contribute on frontend level or tests
 
 learning has no definition of done
+
+## Creating Internal DSLs in Kotlin
