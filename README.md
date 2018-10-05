@@ -166,3 +166,26 @@ https://rakhman.info/
 https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915
 
 https://medium.com/@Cypressious/your-second-firefox-extension-in-kotlin-bafd91d87c41
+
+## Exploring Coroutines in Kotlin
+* structure of functional sequential code is the same as parallel code
+* functional style is great
+* exception handling is a mess
+* coroutines: rely on continuations
+
+```
+val sequence - buildSequence {
+  yield(1)
+  yield(2)
+  yield(3)
+}
+
+for (value in sequence) {
+  println("Value is $value")
+}
+```
+code just multiple times into the same function
+
+`suspend fun` + `launch`
+
+* structure of imperative sync code is the same as async code
