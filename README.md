@@ -200,3 +200,38 @@ https://gist.github.com/dgreenhalgh/54d87412fec2705119a72bd08e12fbe6
 
 * function inlining, removes the need for the JVM to use an object instance and to perform variable memory allocations for the lambda
 * `inline fun`
+
+## Kotlin Coroutines in Practice
+coroutines ~ light weight threads 
+`suspend fun` - doesn't block, waits for the completion, function returns only when everything is completed, is sequential
+
+in parallel -> `launch{}` -> when we use it this way, that invocation is child of coroutine scope instead of being global as it is with `Thread`s
+
+structured concurrency
+
+* shared + mutable state = danger => shared by communication
+* synchronized primitives => communication primitives - channels
+* classes => coroutines
+
+communication primitives
+`CoroutineScope.`...
+`ReceiveChannel`
+`SendChannel`
+
+* concurrency must be limited
+* worker pool
+* it can be achieved with `SendChannel`
+
+`select` expression to choose from multiple receive channels
+
+everything inside coroutine: no concurrency, no synchronization, code is sequential
+
+patterns: worker pool, actor
+
+* coroutines can be written in a way where they never leak - they are closed properly
+* `CoroutineScope` - launches new coroutines & quickly returns, doesn't wait for them
+
+takeaways
+* coroutines are not like threads
+* the code needs to be restructured, but it's much better
+* no exception is ever lost, it bubbles up
