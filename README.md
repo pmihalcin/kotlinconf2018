@@ -195,3 +195,5 @@ code execution returns multiple times into the same function
 `async` + `Deferred` + `await()`
 
 ## Code Lab - Higher-order Functions
+https://gist.github.com/dgreenhalgh/6f14267507cbec6e9f52fa3e84971771
+https://gist.github.com/dgreenhalgh/54d87412fec2705119a72bd08e12fbe6
