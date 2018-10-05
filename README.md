@@ -269,7 +269,8 @@ be mindful about commits
 
 get feedback in advance
 
-`Kotlin hour`
+##### Kotlin hour
+
 have a clear value proposition - agenda
 
 use the hive mind - if I am backend developer, I can also contribute on frontend level or tests
