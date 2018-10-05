@@ -235,3 +235,35 @@ takeaways
 * coroutines are not like threads
 * the code needs to be restructured, but it's much better
 * no exception is ever lost, it bubbles up
+
+## Learn together. Not the same
+* learning Kotlin as a team
+* cross-functional teams
+
+consumer | rider | restaurant
+
+* catchup on e.g. Android
+
+* collaboration through code reviews
+* add link to slack, if e.g. PR is way too big, people wouldn't pick it up -> wheel decide
+
+* sharing knowledge
+* teaching somebody is the best way
+* assume that anyone you're teaching has no knowledge, but infinite intelligence
+* code reviews are for more than just correctness
+* create forums for discussion
+
+it's ok to say I dunno, not understand everything
+
+* fight for your right to learn - add value to yourself & your company
+
+* doing code review is about learning + you can reflect on your own pull request while it is assigned to other team member
+
+* be mindful about commits
+
+* get feedback in advance
+
+`Kotlin hour`
+* have a clear value proposition - agenda
+* use the hive mind - if I am backend developer, I can also contribute on frontend level or tests
+* learning has no definition of done
