@@ -194,6 +194,8 @@ code execution returns multiple times into the same function
 
 `async` + `Deferred` + `await()`
 
+https://www.ipify.org/
+
 ## Code Lab - Higher-order Functions
 https://gist.github.com/dgreenhalgh/6f14267507cbec6e9f52fa3e84971771
 https://gist.github.com/dgreenhalgh/54d87412fec2705119a72bd08e12fbe6
@@ -303,3 +305,18 @@ inspiration: HTML builder, Spring fu
 ## Kotlin puzzlers, vol 2
 https://github.com/angryziber/kotlin-puzzlers
 
+## All prezis
+https://jeroenmols.com/blog/2018/10/05/kotlinconf18/
+
+## Resources where to learn more
+https://www.atomickotlin.com/exercises/
+
+https://stepik.org/course/15001
+
+https://kotlinlang.org/docs/tutorials/koans.html
+
+https://www.coursera.org/learn/kotlin-for-java-developers
+
+https://kotlinlang.org/docs/tutorials/edu-tools-learner.html
+
+http://kotl.in/learn
