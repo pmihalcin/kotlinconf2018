@@ -294,11 +294,9 @@ what makes Kotling good for DSLs:
 * no `()` for passing last lambda
 
 * implicit receivers
-
-JS
-`.call`
-it's possible to attach context to given function
-I can take any function and supplement object on which function is called
+  * JS `.call`
+  * it's possible to attach context to given function
+  * I can take any function and supplement object on which function is called
 
 inspiration: HTML builder, Spring fu
 
