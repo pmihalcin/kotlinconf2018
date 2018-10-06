@@ -300,3 +300,6 @@ what makes Kotling good for DSLs:
 
 inspiration: HTML builder, Spring fu
 
+## Kotlin puzzlers, vol 2
+https://github.com/angryziber/kotlin-puzzlers
+
